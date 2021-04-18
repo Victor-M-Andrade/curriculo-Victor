@@ -1,0 +1,59 @@
+body{
+    background-image: url("https://besthqwallpapers.com/Uploads/15-2-2019/80616/fractals-violet-background-artwork-3d-art-vortex.jpg");
+    background-size: cover;
+    font: normal 15pt Arial;
+    color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+header{
+    color: white;
+    text-align: center;
+}
+
+.section_geral{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.712);
+    border-radius: 10px;
+    padding: 15px;
+    width: 990px;
+    margin: auto;
+    box-shadow: 1px 1px 100px rgba(100, 17, 194, 0.74);
+}
+
+#foto_perfil{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width: 350px;
+    border-radius: 100px;
+    border: 5px solid rgb(8, 116, 143);
+    padding: unset;
+    box-shadow: 1px 1px 25px rgb(8, 116, 143);
+}
+
+img{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    padding: 5px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+h3{
+    margin-top: 45px;
+}
