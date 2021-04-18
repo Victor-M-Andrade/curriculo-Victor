@@ -1,1 +1,0 @@
-window.alert("Seja Bem vindo ao meu perfil :D")
