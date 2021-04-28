@@ -1,3 +1,4 @@
+
 body{
     background-image: url("https://besthqwallpapers.com/Uploads/15-2-2019/80616/fractals-violet-background-artwork-3d-art-vortex.jpg");
     background-size: cover;
@@ -56,4 +57,12 @@ p{
 
 h3{
     margin-top: 45px;
+}
+
+.icons:hover {
+    transform: scale(1.2,1.2);
+}
+
+article img:hover {
+   transform: scale(1.2,1.2);
 }
